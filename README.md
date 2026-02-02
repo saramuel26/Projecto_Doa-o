@@ -97,26 +97,6 @@ Filtragem por doador, item ou categoria
 Contador de resultados
 
 🏛 Arquitetura MVVM
-app/
-├── data/
-│   ├── entity/          # Room Entities (User, Donation)
-│   ├── dao/             # Data Access Objects
-│   ├── database/        # AppDatabase
-│   └── repository/      # UserRepository, DonationRepository, APIRepository
-│
-├── ui/
-│   ├── screen/          # Composables
-│   ├── viewmodel/       # AuthViewModel, DonationViewModel
-│   ├── navigation/      # Navigation Graph
-│   └── theme/           # Colors & Styles
-│
-└── MainActivity.kt      # Main Activity
-
-api/
-├── controllers/         # API controllers
-├── models/              # Data models
-├── routes/              # API routes
-└── Application.kt       # API initialization
 
 
 ⚙️ Instalação
