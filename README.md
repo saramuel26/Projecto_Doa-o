@@ -121,10 +121,6 @@ api/
 
 ⚙️ Instalação
 
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/doacoes-comunitarias.git
-
 
 Abra o projeto no Android Studio
 
